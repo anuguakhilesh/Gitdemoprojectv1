@@ -28,5 +28,6 @@ class Main{
 		Dog mydog=new Dog();
 		mypig.animalsound();
 		mydog.animalsound();
+		System.out.println("is it working");
 	}
 }
